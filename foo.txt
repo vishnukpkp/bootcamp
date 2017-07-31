@@ -1,0 +1,6 @@
+hello im foo file
+
+changed for second commit
+
+
+third commit
